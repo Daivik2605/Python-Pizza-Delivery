@@ -13,5 +13,5 @@ A simple Python code that calculates the bill based on users choices (size, topp
  
     The Python Program takes the inputs, and calculates the final bill
 
-
-    Reference: https://www.udemy.com/course/100-days-of-code
+## Reference: 
+https://www.udemy.com/course/100-days-of-code
